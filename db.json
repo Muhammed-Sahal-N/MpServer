@@ -1,0 +1,56 @@
+{
+  "allvideos": [
+    {
+      "id": "f5dd",
+      "caption": "VAAZHA",
+      "imageurl": "https://image.tmdb.org/t/p/original/6SFL0Z5x4FQTNYoDCp6SbbyydQm.jpg",
+      "youtubeurl": "https://www.youtube.com/embed/e1BHIY9p2WU"
+    },
+    {
+      "id": "b454",
+      "caption": "LEO",
+      "imageurl": "https://th.bing.com/th/id/OIP.BAzVEOna4GEXtOeC4yJDDAHaLH?rs=1&pid=ImgDetMain",
+      "youtubeurl": "https://www.youtube.com/embed/q6e_b0NERCA"
+    }
+  ],
+  "allcategory": [
+    {
+      "id": "36ba",
+      "CategoryName": "MALAYALAM",
+      "allVideos": [
+        {
+          "id": "d44d",
+          "caption": "parava",
+          "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJXLfmA-P5bBrj7PJ2HsPze26dNgcczT1YKA&s",
+          "youtubeurl": "https://www.youtube.com/embed/6yLWsfDN_4E"
+        }
+      ]
+    },
+    {
+      "id": "a6b7",
+      "CategoryName": "TAMIL",
+      "allVideos": [
+        {
+          "id": "1d9f",
+          "caption": "AMARAN",
+          "imageurl": "https://www.wallsnapy.com/img_gallery/amaran-second-look-poster-hd-download-4k-7289344.jpg",
+          "youtubeurl": "https://www.youtube.com/embed/AY3Yea6hBbI"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "06b2",
+      "caption": "parava",
+      "youtubeurl": "https://www.youtube.com/embed/6yLWsfDN_4E",
+      "formateDate": "11/13/2024, 10:40:02 PM"
+    },
+    {
+      "id": "02b5",
+      "caption": "VAAZHA",
+      "youtubeurl": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formateDate": "11/20/2024, 9:46:02 AM"
+    }
+  ]
+}
